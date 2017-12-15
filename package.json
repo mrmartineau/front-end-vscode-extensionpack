@@ -1,0 +1,40 @@
+{
+  "name": "frontend-vscode-extensionpack",
+  "version": "0.1.0",
+  "publisher": "mrmartineau",
+  "displayName": "Front-end VS Code Extension Pack",
+  "description":
+    "A collection of extensions for working with Vue Applications in VS Code",
+  "license": "SEE LICENSE IN LICENSE",
+  "galleryBanner": {
+    "color": "#47B784",
+    "theme": "dark"
+  },
+  "repository": {
+    "url": "https://github.com/mrmartineau/frontend-vscode-extensionpack"
+  },
+  "homepage": "https://github.com/mrmartineau/frontend-vscode-extensionpack",
+  "bugs": {
+    "url": "https://github.com/mrmartineau/frontend-vscode-extensionpack/issues"
+  },
+  "keywords": ["frontend", "front-end", "extension pack", "front-end extension collection"],
+  "categories": ["Extension Packs"],
+  "engines": {
+    "vscode": "^1.14.0"
+  },
+  "extensionDependencies": [
+    "formulahendry.auto-rename-tag",
+    "esbenp.prettier-vscode",
+    "alefragnani.Bookmarks",
+    "xabikos.JavaScriptSnippets",
+    "EditorConfig.editorconfig",
+    "wmaurer.vscode-jumpy",
+    "gayanhewa.referenceshelper",
+    "wix.vscode-import-cost",
+    "sourcegraph.javascript-typescript",
+    "alefragnani.project-manager",
+    "jakob101.relativepath",
+    "joshpeng.sublime-babel-vscode",
+    "sleistner.vscode-fileutils"
+  ]
+}
