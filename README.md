@@ -22,7 +22,7 @@ These are some of my favorite extensions to make front-end application developme
 
 ## Relevant Links
 
-* [Github](https://github.com/mrmartineau/frontend-vscode-extensionpack)
+* [Github](https://github.com/mrmartineau/front-end-vscode-extensionpack)
 * [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=mrmartineau.frontend-vscode-extensionpack)
 
 
